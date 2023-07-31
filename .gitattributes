@@ -1,0 +1,2 @@
+ComputerVision/ImageSegmentation/images.tar.gz filter=lfs diff=lfs merge=lfs -text
+ComputerVision/ImageSegmentation/annotations.tar.gz filter=lfs diff=lfs merge=lfs -text
